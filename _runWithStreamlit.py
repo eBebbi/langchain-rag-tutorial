@@ -37,6 +37,7 @@ def generate_data_store():
 # Dokumente laden
 def load_documents():
     loader = DirectoryLoader(DATA_PATH, glob="*.md")
+    #loader = DirectoryLoader(DATA_PATH, glob="*.pdf")
     documents = loader.load()
     return documents
 
