@@ -4,6 +4,9 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
+import os
+from dotenv import load_dotenv
+
 
 CHROMA_PATH = "chroma"
 
@@ -19,6 +22,14 @@ Answer the question based on the above context: {question}
 
 
 def main():
+    # Lade explizit die Datei 'settings.env'
+    load_dotenv("settings.env")
+
+    # Holt den API-Schlüssel aus den Umgebungsvariablen
+    openai_api_key = os.getenv("OPENAI_API_KEY")
+    #print(openai_api_key)  # Teste, ob der API-Schlüssel erfolgreich geladen wurde
+
+
     # Create CLI.
     parser = argparse.ArgumentParser()
     parser.add_argument("query_text", type=str, help="The query text.")
@@ -45,7 +56,9 @@ def main():
 
     sources = [doc.metadata.get("source", None) for doc, _score in results]
     formatted_response = f"Response: {response_text}\nSources: {sources}"
-    print(formatted_response)
+    myResponse = f"\n\n\n\nFrage: {query_text}\nAntwort:{response_text}"
+    #print(formatted_response)
+    print(myResponse)
 
 
 if __name__ == "__main__":
