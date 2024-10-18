@@ -106,7 +106,8 @@ def main():
                 results = db.similarity_search_with_relevance_scores(query, k=3)
                 if len(results) == 0 or results[0][1] < 0.7:
                     print(f"Unable to find matching results.")
-                    aiAnswer = f"Tut mir leid, aber ich kann die Frage '{query}' nicht beantworten.\nÄndere bitte die Frage und versuche es erneut."
+                    #aiAnswer = f"Tut mir leid, aber ich kann die Frage '{query}' nicht beantworten.\nÄndere bitte die Frage und versuche es erneut."
+                    aiAnswer = f"Tut mir leid, aber ich kann die Frage '{query}' nicht beantworten.\nÄndere bitte die Frage und versuche es erneut.\nOder frage Bill Gates via 'billgeitsodergeitsnid@microsoft.com'"
                     st.write(aiAnswer)
                     return
                 else:

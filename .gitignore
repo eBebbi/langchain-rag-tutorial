@@ -5,3 +5,4 @@ chroma
 create_database.py
 create_database.py
 settings.env
+*.mov
