@@ -706,3 +706,189 @@
 **Frage:** Wie markiere ich in Excel doppelte Werte mit bedingter Formatierung?  
 **Antwort:** Markiere den Bereich, gehe zu **Start** > **
 
+# Fragen und Antworten für Microsoft Office Anwendungen (Fortsetzung)
+
+## 120. Wie erstelle ich in Excel einen SVERWEIS?
+**Frage:** Wie kann ich in Excel die Funktion SVERWEIS verwenden?  
+**Antwort:** Verwende die Formel `=SVERWEIS(Suchwert;Matrix;Spaltenindex;[bereich_suche])`, um in einer Tabelle einen Wert zu suchen und einen zugehörigen Wert zurückzugeben.
+
+---
+
+## 121. Wie erstelle ich in PowerPoint ein Handzettel-Layout?
+**Frage:** Wie erstelle ich in PowerPoint ein Handzettel-Layout für Präsentationen?  
+**Antwort:** Gehe zu **Datei** > **Drucken**, wähle unter **Einstellungen** das Handzettel-Layout aus und drucke die Präsentation als Handzettel für deine Zuhörer.
+
+---
+
+## 122. Wie kann ich in Outlook eine Abwesenheitsnotiz einrichten?
+**Frage:** Wie richte ich in Outlook eine automatische Abwesenheitsantwort ein?  
+**Antwort:** Gehe zu **Datei** > **Automatische Antworten**, aktiviere die Option und lege den Text und den Zeitraum für deine Abwesenheitsnotiz fest.
+
+---
+
+## 123. Wie kann ich in Excel eine Dropdown-Liste erstellen?
+**Frage:** Wie füge ich eine Dropdown-Liste in Excel hinzu?  
+**Antwort:** Gehe zu **Daten** > **Datenüberprüfung**, wähle **Liste** und füge die Elemente hinzu, die in der Dropdown-Liste erscheinen sollen.
+
+---
+
+## 124. Wie kann ich in Word die Kopfzeile anpassen?
+**Frage:** Wie passe ich die Kopfzeile in Word an?  
+**Antwort:** Gehe zu **Einfügen** > **Kopfzeile** und wähle eine Vorlage oder erstelle eine benutzerdefinierte Kopfzeile für dein Dokument.
+
+---
+
+## 125. Wie kann ich in PowerPoint Videos einfügen?
+**Frage:** Wie füge ich in PowerPoint ein Video in eine Folie ein?  
+**Antwort:** Gehe zu **Einfügen** > **Video** und wähle ein Video von deinem Computer oder aus dem Internet aus, um es in die Präsentation einzufügen.
+
+---
+
+## 126. Wie kann ich in Excel eine Pivot-Tabelle erstellen?
+**Frage:** Wie erstelle ich eine Pivot-Tabelle in Excel?  
+**Antwort:** Markiere die Daten, gehe zu **Einfügen** > **Pivot-Tabelle**, wähle den Zielbereich und erstelle eine benutzerdefinierte Auswertung deiner Daten.
+
+---
+
+## 127. Wie erstelle ich in Word eine Inhaltsverzeichnis?
+**Frage:** Wie füge ich in Word ein Inhaltsverzeichnis hinzu?  
+**Antwort:** Gehe zu **Verweise** > **Inhaltsverzeichnis** und wähle eine Vorlage oder erstelle ein benutzerdefiniertes Inhaltsverzeichnis basierend auf den Überschriften in deinem Dokument.
+
+---
+
+## 128. Wie kann ich in Excel eine bedingte Formatierung für leere Zellen erstellen?
+**Frage:** Wie formatiere ich in Excel leere Zellen mit bedingter Formatierung?  
+**Antwort:** Markiere den Bereich, gehe zu **Bedingte Formatierung** > **Neue Regel**, wähle **Zellen formatieren, die leer sind** und wähle ein Format aus.
+
+---
+
+## 129. Wie kann ich in PowerPoint Diagramme einfügen?
+**Frage:** Wie füge ich in PowerPoint ein Diagramm ein?  
+**Antwort:** Gehe zu **Einfügen** > **Diagramm**, wähle den Diagrammtyp und bearbeite die Daten, um das Diagramm nach deinen Bedürfnissen anzupassen.
+
+---
+
+## 130. Wie kann ich in Excel Datumswerte formatieren?
+**Frage:** Wie formatiere ich in Excel Datumswerte in einem bestimmten Format?  
+**Antwort:** Markiere die Zellen mit den Datumswerten, gehe zu **Start** > **Zellen formatieren** und wähle das gewünschte Datumsformat aus.
+
+---
+
+## 131. Wie kann ich in Word eine Fußnote einfügen?
+**Frage:** Wie füge ich in Word eine Fußnote hinzu?  
+**Antwort:** Klicke auf die Stelle, an der du die Fußnote einfügen möchtest, gehe zu **Verweise** > **Fußnote einfügen** und gib den Text der Fußnote ein.
+
+---
+
+## 132. Wie kann ich in Outlook mehrere E-Mails gleichzeitig verschieben?
+**Frage:** Wie verschiebe ich mehrere E-Mails in Outlook gleichzeitig in einen Ordner?  
+**Antwort:** Markiere die gewünschten E-Mails, ziehe sie per Drag-and-Drop in den gewünschten Ordner oder verwende die **Verschieben**-Funktion im Menü.
+
+---
+
+## 133. Wie erstelle ich in Excel eine benutzerdefinierte Zahlformatierung?
+**Frage:** Wie erstelle ich in Excel ein benutzerdefiniertes Zahlenformat?  
+**Antwort:** Markiere die Zellen, gehe zu **Start** > **Zellen formatieren** > **Benutzerdefiniert** und definiere das Zahlenformat manuell.
+
+---
+
+## 134. Wie kann ich in Word automatische Nummerierungen einfügen?
+**Frage:** Wie erstelle ich in Word eine automatisch nummerierte Liste?  
+**Antwort:** Markiere den Text, gehe zu **Start** > **Nummerierung**, um eine nummerierte Liste zu erstellen.
+
+---
+
+## 135. Wie erstelle ich in PowerPoint einen Präsentationskommentar?
+**Frage:** Wie füge ich in PowerPoint Notizen für die Präsentation hinzu?  
+**Antwort:** Klicke unten auf **Notizen**, um für jede Folie eigene Präsentationsnotizen hinzuzufügen, die während der Präsentation sichtbar sind.
+
+---
+
+## 136. Wie kann ich in Excel Diagramme formatieren?
+**Frage:** Wie passe ich in Excel das Aussehen eines Diagramms an?  
+**Antwort:** Klicke auf das Diagramm, gehe zu **Diagrammelemente** und passe Farben, Achsen und Beschriftungen nach deinen Wünschen an.
+
+---
+
+## 137. Wie kann ich in Outlook Signaturen erstellen?
+**Frage:** Wie erstelle ich in Outlook eine E-Mail-Signatur?  
+**Antwort:** Gehe zu **Datei** > **Optionen** > **E-Mail** > **Signaturen**, erstelle eine neue Signatur und füge sie deinen E-Mails automatisch hinzu.
+
+---
+
+## 138. Wie kann ich in Word einen Serienbrief erstellen?
+**Frage:** Wie erstelle ich in Word einen Serienbrief?  
+**Antwort:** Gehe zu **Sendungen** > **Serienbrief starten**, wähle den Empfängerkreis und die Datenquelle aus und füge die Platzhalter in das Dokument ein.
+
+---
+
+## 139. Wie kann ich in Excel den Datenbereich eines Diagramms ändern?
+**Frage:** Wie ändere ich den Datenbereich eines Diagramms in Excel?  
+**Antwort:** Klicke auf das Diagramm, gehe zu **Diagrammtools** > **Daten auswählen** und passe den Datenbereich nach deinen Bedürfnissen an.
+
+---
+
+## 140. Wie kann ich in PowerPoint eine Sprecheransicht verwenden?
+**Frage:** Wie aktiviere ich in PowerPoint die Sprecheransicht?  
+**Antwort:** Gehe zu **Bildschirmpräsentation** > **Sprecheransicht**, um während der Präsentation Notizen und die nächste Folie zu sehen.
+
+---
+
+## 141. Wie erstelle ich in Word ein Deckblatt?
+**Frage:** Wie füge ich ein Deckblatt in Word hinzu?  
+**Antwort:** Gehe zu **Einfügen** > **Deckblatt** und wähle aus den Vorlagen oder erstelle ein benutzerdefiniertes Deckblatt.
+
+---
+
+## 142. Wie kann ich in Excel Zellinhalte trennen?
+**Frage:** Wie trenne ich Text in einer Excel-Zelle in mehrere Spalten?  
+**Antwort:** Markiere die Zellen, gehe zu **Daten** > **Text in Spalten** und wähle das Trennzeichen aus, um den Text in mehrere Spalten zu trennen.
+
+---
+
+## 143. Wie kann ich in PowerPoint benutzerdefinierte Folienlayouts erstellen?
+**Frage:** Wie erstelle ich in PowerPoint ein benutzerdefiniertes Folienlayout?  
+**Antwort:** Gehe zu **Ansicht** > **Folienmaster** und erstelle oder bearbeite ein Layout für deine Präsentation.
+
+---
+
+## 144. Wie kann ich in Outlook eine Lesebestätigung anfordern?
+**Frage:** Wie fordere ich eine Lesebestätigung für eine E-Mail in Outlook an?  
+**Antwort:** Gehe zu **Optionen** und aktiviere **Lesebestätigung anfordern**, bevor du die E-Mail sendest.
+
+---
+
+## 145. Wie kann ich in Excel Makros aufzeichnen?
+**Frage:** Wie nehme ich in Excel ein Makro auf?  
+**Antwort:** Gehe zu **Entwicklertools** > **Makro aufzeichnen**, führe die gewünschten Aktionen aus und speichere das Makro zur späteren Verwendung.
+
+---
+
+## 146. Wie kann ich in Word ein Bild zuschneiden?
+**Frage:** Wie schneide ich ein Bild in Word zu?  
+**Antwort:** Wähle das Bild aus, gehe zu **Bildtools** > **Zuschneiden**, um das Bild auf die gewünschte Größe zu bringen.
+
+---
+
+## 147. Wie kann ich in PowerPoint eine Endlosschleife einrichten?
+**Frage:** Wie stelle ich eine Präsentation in PowerPoint auf Endlosschleife?  
+**Antwort:** Gehe zu **Bildschirmpräsentation** > **Bildschirmpräsentation einrichten** und aktiviere **Endlos wiederholen**, um eine Schleife zu erstellen.
+
+---
+
+## 148. Wie kann ich in Excel eine bedingte Formatierung mit mehreren Regeln erstellen?
+**Frage:** Wie erstelle ich in Excel eine bedingte Formatierung mit mehreren Regeln?  
+**Antwort:** Gehe zu **Bedingte Formatierung** > **Neue Regel** und füge mehrere Bedingungen hinzu, um die Zellen abhängig von mehreren Kriterien zu formatieren.
+
+---
+
+## 149. Wie kann ich in Word einen Abschnittsumbruch einfügen?
+**Frage:** Wie füge ich in Word einen Abschnittsumbruch ein?  
+**Antwort:** Gehe zu **Layout** > **Umbrüche** und wähle **Abschnittsumbruch** aus, um den Text in verschiedene Abschnitte zu unterteilen.
+
+---
+
+## 150. Wie kann ich in Excel Zellen verketten?
+**Frage:** Wie verknüpfe ich in Excel den Inhalt mehrerer Zellen?  
+**Antwort:** Verwende die Funktion `=VERKETTEN(Text1; Text2; ...)` oder `=TEXTVERKETTEN`, um den Inhalt von Zellen in eine Zelle zusammenzuführen.
+

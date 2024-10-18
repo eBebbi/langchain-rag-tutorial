@@ -78,7 +78,6 @@ def main():
             with st.spinner("Verarbeite deine Anfrage..."):
                 # Suche ähnliche Dokumente in der bestehenden Chroma-Datenbank
                 results = db.similarity_search(query)
-                
                 if results:
                     st.write("Ergebnisse:")
                     for result in results:
